@@ -26,6 +26,7 @@ The main logic lives under `src/lib/Leaflet.svelte`. [Please note that to give a
 The app would be available at `http://localhost:5173`.
 By default, the map shows the locations of a vehicle but to take user-input, navigate to `http://localhost:5173/vehicleRoutes/[vehicleId]` and it will update the pointers accordingly.
 
+<img width="1534" alt="Screenshot 2023-08-03 at 20 14 59" src="https://github.com/ifrahQ11/Map-Visualization/assets/137084789/05e50e5e-8370-499a-85a7-bae6ef02c1c7">
 
 ## Backend - Postgres
 This folder aims to establish an express server using a postgres docker image. 
