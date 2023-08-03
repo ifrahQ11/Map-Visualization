@@ -1,0 +1,36 @@
+[
+    {
+        "id" : "vehicle1",
+        "name": "BMW-1",
+        "plateNum": "XYZ",
+        "driverName" : "SomeName-1",
+        "driverPhoneNum": "+4915567892",
+        "coordinates": [
+            {"lat": 51.605 , "long": -0.09},
+            {"lat": 51.607 , "long": -0.10},
+            {"lat": 51.608 , "long": -0.11},
+            {"lat": 51.609 , "long": -0.12},
+            {"lat": 51.610 , "long": -0.13},
+            {"lat": 51.611 , "long": -0.14},
+            {"lat": 51.612 , "long": -0.15},
+            {"lat": 51.613 , "long": -0.16}
+        ]
+    },
+    {
+        "id" : "vehicle2",
+        "name": "BMW-2",
+        "plateNum": "ABC",
+        "driverName": "SomeName-2",
+        "driverPhoneNum": "+4915567892",
+        "coordinates": [
+            {"lat": 51.505 , "long": -0.09},
+            {"lat": 51.507 , "long": -0.10},
+            {"lat": 51.508 , "long": -0.11},
+            {"lat": 51.509 , "long": -0.12},
+            {"lat": 51.510 , "long": -0.13},
+            {"lat": 51.511 , "long": -0.14},
+            {"lat": 51.512 , "long": -0.15},
+            {"lat": 51.513 , "long": -0.16}
+        ]
+    }
+]
